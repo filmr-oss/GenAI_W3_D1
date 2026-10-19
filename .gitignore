@@ -1,0 +1,7 @@
+Assignment/
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+instance _01.txt
